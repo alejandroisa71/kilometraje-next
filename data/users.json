@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "firstName": "fer",
+        "lastName": "fer",
+        "username": "fer123",
+        "hash": "$2a$10$QUzdExfo6loZTnRAazQmZ.C5KinC3xnpsiAzqbQGKlQSdeEBOZkpS",
+        "id": 2,
+        "dateCreated": "2022-11-01T20:49:36.340Z",
+        "dateUpdated": "2022-11-01T20:49:36.340Z"
+    }
+]
